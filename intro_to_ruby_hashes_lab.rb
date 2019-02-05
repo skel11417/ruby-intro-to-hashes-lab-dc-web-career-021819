@@ -47,10 +47,10 @@ def monopoly_with_fourth_tier
         "mortgage_value" => "$100"
       },
       pennsylvania_railroad: {
-        mortage_value: "$200"
+        "mortage_value" => "$200"
       },
       b_and_o_railroad: {
-        mortage_value: "$400"
+        "mortage_value" => "$400"
       },
       shortline: {
         mortage_value: "$800"
